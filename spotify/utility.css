@@ -1,0 +1,59 @@
+.invert{
+    filter: invert(1);
+}
+.p1{
+    padding: 10px;
+   
+   
+}
+.p2{
+    padding: 14px;
+}
+.list{
+    width: 30px;
+    color: white;
+    list-style: none;
+    display: flex;
+    gap: 16px;
+    align-items: center;
+   padding-top: 14px;
+}
+.display{
+    display: flex;
+    
+    
+}
+
+.gap1{
+    gap: 14px;
+}
+.gap2{
+    gap: 70px;
+}
+.border{ 
+    border: 3px solid black;
+
+}
+.border-radius{
+    border-radius: 10px;
+
+}
+.font16{
+    font-size: 20px;
+    font-weight: 700px;
+}
+.font14{
+    font-size: 14px;
+    font-weight: 400px;
+
+}
+.list-style{
+    list-style: none;
+}
+.justify-center{
+    justify-content: center;
+    align-items: center;
+}
+.break{
+    
+}

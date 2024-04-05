@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    height: 100vh;
+    width: 100vw;
+}
+.left{
+    width: 30%;
+    border: 2px solid black;
+}
+.right{
+    width: 70%;
+    border: 2px solid black;
+
+}
